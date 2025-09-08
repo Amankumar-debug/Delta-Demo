@@ -1,2 +1,6 @@
 # Delta-Demo
 This is a demo of git and github.
+# Thecher
+Shradha Khapra
+#student 
+Aman Bansal
